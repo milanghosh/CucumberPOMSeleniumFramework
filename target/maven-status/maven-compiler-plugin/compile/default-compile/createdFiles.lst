@@ -1,0 +1,7 @@
+com\pages\InventoryPage.class
+com\qa\factory\DriverFactory.class
+Utilities\Constants.class
+Utilities\ConfigReader.class
+com\pages\CartPage.class
+com\pages\LoginPage.class
+Utilities\ElementUtil.class
